@@ -183,24 +183,45 @@ text
 
 The application successfully demonstrates real-time recognition of all required gestures:
 
-### Demo Video
-**File:** `demo.mp4` (included in repository)  
-**Duration:** ~30 seconds  
-**Content:** Real-time demonstration of all 4 gestures  
+## Demonstration
 
+The application successfully demonstrates real-time recognition of all required gestures:
+
+### Demo Video
+
+**🎬 [View Demo Video on Google Drive]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1T7sxWTl5K3w528RZN3jnpBDWxY90PJSI/view?usp=sharing))**
+
+[![Hand Gesture Recognition Demo](https://drive.google.com/thumbnail?id=YOUR_FILE_ID&sz=w640)](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
+
+**Alternative Access:**
+- **Direct Repository File:** [demo.mp4](./demo.mp4)
+- **Google Drive Download:** [Download from Drive]([https://drive.google.com/uc?export=download&id=YOUR_FILE_ID](https://drive.google.com/file/d/1T7sxWTl5K3w528RZN3jnpBDWxY90PJSI/view?usp=sharing))
+
+
+
+### Demo Content Overview
 *The demonstration shows successful detection of:*
 - **Open Palm:** Reliable detection with confidence >90%
 - **Fist:** Accurate recognition in various orientations  
 - **Peace Sign:** Precise V-sign identification
 - **Thumbs Up:** Correct upward thumb detection
 
-**View Demo:** [demo.mp4](./demo.mp4) *(click to download and view)*
+### Video Specifications
+- **Duration:** ~30 seconds demonstration
+- **Content:** All 4 required gestures with confidence scores
+- **Quality:** HD recording showing clear interface
+- **Features Demonstrated:**
+  - Real-time gesture recognition with live confidence scoring
+  - Hand landmark visualization with bounding boxes
+  - Professional Streamlit interface with controls
+  - Stable performance across different lighting conditions
 
-### Key Demo Features
-- Real-time gesture recognition with live confidence scoring
-- Hand landmark visualization with bounding boxes
-- Responsive user interface with professional design
-- Stable performance across different lighting conditions
+### Access Options
+1. **Primary:** Google Drive streaming (click thumbnail above)
+2. **Download:** Google Drive direct download link
+3. **Backup:** Repository file [demo.mp4](./demo.mp4)
+4. **Mobile-friendly:** Works on all devices and platforms
+
 
 ## Technical Architecture
 
