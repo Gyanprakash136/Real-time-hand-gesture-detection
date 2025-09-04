@@ -183,21 +183,15 @@ text
 
 The application successfully demonstrates real-time recognition of all required gestures:
 
-## Demonstration
-
-The application successfully demonstrates real-time recognition of all required gestures:
-
 ### Demo Video
 
-**🎬 [View Demo Video on Google Drive]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1T7sxWTl5K3w528RZN3jnpBDWxY90PJSI/view?usp=sharing))**
+**🎬 [View Demo Video on Google Drive](https://drive.google.com/file/d/1T7sxWTl5K3w528RZN3jnpBDWxY90PJSI/view?usp=sharing)**
 
-[![Hand Gesture Recognition Demo](https://drive.google.com/thumbnail?id=YOUR_FILE_ID&sz=w640)](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
+[![Hand Gesture Recognition Demo](https://drive.google.com/thumbnail?id=1T7sxWTl5K3w528RZN3jnpBDWxY90PJSI&sz=w640)](https://drive.google.com/file/d/1T7sxWTl5K3w528RZN3jnpBDWxY90PJSI/view?usp=sharing)
 
 **Alternative Access:**
 - **Direct Repository File:** [demo.mp4](./demo.mp4)
-- **Google Drive Download:** [Download from Drive]([https://drive.google.com/uc?export=download&id=YOUR_FILE_ID](https://drive.google.com/file/d/1T7sxWTl5K3w528RZN3jnpBDWxY90PJSI/view?usp=sharing))
-
-
+- **Google Drive Download:** [Download from Drive](https://drive.google.com/uc?export=download&id=1T7sxWTl5K3w528RZN3jnpBDWxY90PJSI)
 
 ### Demo Content Overview
 *The demonstration shows successful detection of:*
@@ -218,7 +212,7 @@ The application successfully demonstrates real-time recognition of all required 
 
 ### Access Options
 1. **Primary:** Google Drive streaming (click thumbnail above)
-2. **Download:** Google Drive direct download link
+2. **Download:** Google Drive direct download link  
 3. **Backup:** Repository file [demo.mp4](./demo.mp4)
 4. **Mobile-friendly:** Works on all devices and platforms
 
