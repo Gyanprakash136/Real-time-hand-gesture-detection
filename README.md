@@ -276,9 +276,5 @@ This project is developed for educational purposes as part of the AI Intern Asse
 **Repository:** https://github.com/Gyanprakash136/Real-time-hand-gesture-detection  
 **Assessment Contact:** support@bhatiyaniai.com  
 
----
 
-**Submission Date:** September 4, 2025  
-**Assessment Deadline:** September 2, 2025, 5:00 PM IST  
-**Status:** ✅ Completed and Ready for Submission
 
